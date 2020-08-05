@@ -1,0 +1,12 @@
+<routes>
+<vType accel = "6.0" decel = "8.0" id = "car" length = "2.0" maxspeed = "100.0" sigma = "0.0" />
+<route id="route0" edges="1to3 3to2" />
+<route id="route1" edges="4to3 3to5" />
+<route id="route2" edges="2to3 3to1" />
+<route id="route3" edges="5to3 3to4" />
+<route id="route4" edges="1to3 3to4" />
+<route id="route5" edges="4to3 3to2" />
+<route id="route6" edges="2to3 3to5" />
+<route id="route7" edges="5to3 3to1" />
+<vehicle depart="0" id="veh0" route="route0" type="car" color="red" departLane="free" arrivalSpeed="10" departPos="last"/>
+</routes>

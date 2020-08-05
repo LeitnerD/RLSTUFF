@@ -1,0 +1,12 @@
+<additional>
+ <tlLogic id="n3" programID="Vpass" offset="0" type="static">
+
+        <phase index="0" next="1" duration="3"  state="rrrrryyyyyrrrrryyyyy"/>
+        <phase index="1" next="1" duration="1" state="gggggrrrrrgggggrrrrr"/>
+   </tlLogic>
+ <tlLogic id="n3" programID="Hpass" offset="0" type="static">
+
+        <phase index="0" next="1" duration="3"  state="yyyyyrrrrryyyyyrrrrr"/>
+        <phase index="1" next="1" duration="1" state="rrrrrgggggrrrrrggggg"/>
+   </tlLogic>
+</additional>

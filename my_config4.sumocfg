@@ -1,0 +1,12 @@
+<configuration>
+
+<input>
+<net-file value="net2.net.xml"/>
+<route-files value="my_route.rou.xml"/>
+<additional-files value="lightLogic2.add.xml"/> 
+</input>
+<time>
+<begin value="0"/>
+<end value="50000"/>
+</time>
+</configuration>

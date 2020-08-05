@@ -1,0 +1,18 @@
+<additional>
+<tlLogic id="n3" programID="my_program" offset="0" type="actuated">
+   <param key="max-gap" value="30.0"/>
+   <param key="detector-gap" value="2.0"/>
+   <param key="show-detectors" value="false"/>
+   <param key="file" value="NULL"/>
+   <param key="freq" value="300"/>
+   
+   <phase duration="31" minDur="5" maxDur="45" state="gggggrrrrrgggggrrrrr"/>
+   <phase duration="31" minDur="5" maxDur="45" state="yyyyyrrrrryyyyyrrrrr"/>
+
+   <phase duration="31" minDur="5" maxDur="45" state="rrrrrgggggrrrrrggggg"/>
+   <phase duration="31" minDur="5" maxDur="45" state="rrrrryyyyyrrrrryyyyy"/>
+
+
+
+   </tlLogic>
+</additional>

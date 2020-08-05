@@ -1,0 +1,20 @@
+<additional>
+ <tlLogic id="n3" programID="my_program" offset="0" type="delay_based">
+
+
+   <param key="detectorRange" value="20" />
+   <param key="minTimeLoss" value="1" />
+   <param key="file" value="NULL"/>
+   <param key="freq" value="300"/>
+   <param key="show-detectors" value="false"/>
+   
+   <phase duration="31" minDur="5" maxDur="45" state="gggggrrrrrgggggrrrrr"/>
+   <phase duration="31" minDur="5" maxDur="45" state="yyyyyrrrrryyyyyrrrrr"/>
+
+   <phase duration="31" minDur="5" maxDur="45" state="rrrrrgggggrrrrrggggg"/>
+   <phase duration="31" minDur="5" maxDur="45" state="rrrrryyyyyrrrrryyyyy"/>
+
+
+
+   </tlLogic>
+</additional>
